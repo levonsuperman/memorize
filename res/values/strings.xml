@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">memorize</string>
+    <string name="copyright">© Levon Saribekyan\n2014</string>
+    <string name="title_activity_main">Main</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_add_memory">Add Memory</string>
+
+</resources>
